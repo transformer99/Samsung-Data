@@ -23,10 +23,9 @@ These are the Goals for the process
 2) each observation of that variable should be in a diferent row
 3) include ids to link tables together
 
-- Searches for the source file, if not available it downloads the zip file or viceversa
-- Unzip the downloaded file
-- Extracts and Merges training and testing data
-- Giving headers to Test and Train data
+- Setting `UCI HAR Dataset` to root directory
+- Extracting and Mergeing train and test data
+- Giving headers to test and train data
 - Merging train and test data and Extracting only the measurements on the mean and standard deviation for each measurement
 - Uses descriptive activity names to name the activities in the data set
 - Appropriately labels the data set with descriptive variable names and ordering data with respect to Subject
