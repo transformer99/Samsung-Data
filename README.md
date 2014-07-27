@@ -31,7 +31,7 @@ These are the Goals for the process
 - Uses descriptive activity names to name the activities in the data set
 - Appropriately labels the data set with descriptive variable names and ordering data with respect to Subject
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject and also ordering data with respect to Subject
-- Finally, writing the two files
+- Finally, writing the file
 
 Notes
 =======
@@ -44,7 +44,7 @@ For running the script
 ```
 $ Rscript run_analysis.R
 ```
-Output is  two text files: `tidy.mean.txt` and `tidy.txt`
+Output is  one file: `tidy.mean.txt`
 
 Version used for constructing:
 ```
