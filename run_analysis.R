@@ -1,4 +1,4 @@
-```
+message("loading "reshape2" and "plyr" packages")
 library(reshape2)
 library(plyr)
 
@@ -68,4 +68,4 @@ tidy.mean <- tidy.mean[order(tidy.mean$Subject),]
 
 ##Writing the two files
 write.csv(tidy.mean, file = "tidy.mean.txt",row.names = FALSE)
-```
+
