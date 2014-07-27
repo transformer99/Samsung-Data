@@ -1,4 +1,4 @@
-message("loading "reshape2" and "plyr" packages")
+message("loading 'reshape2' and 'plyr' packages")
 library(reshape2)
 library(plyr)
 
