@@ -24,7 +24,7 @@ These are the Goals for the process
 3) include ids to link tables together
 
 - Setting `UCI HAR Dataset` to root directory
-- Extracting and Mergeing train and test data
+- Extracting and Merging train and test data
 - Giving headers to test and train data
 - Merging train and test data and Extracting only the measurements on the mean and standard deviation for each measurement
 - Uses descriptive activity names to name the activities in the data set
